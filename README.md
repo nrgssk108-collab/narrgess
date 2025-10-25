@@ -1,1 +1,2 @@
 # narrgess
+[Technologys] Software developer
